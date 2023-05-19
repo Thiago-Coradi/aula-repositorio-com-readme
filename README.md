@@ -4,7 +4,7 @@ Projeto ensinando como construir um Readme de qualidade 😱 👍
 
 
 
-[<img src="./animação.gif" alt="gif dancinha barriga">](https//:google.com)
+[<img src="./yasif.gif" alt="gif dancinha barriga">](https//:google.com)
 
 ## tecnologias utilizadas
 
